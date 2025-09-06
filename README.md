@@ -28,10 +28,10 @@ Occupations: IT, Healthcare, Aviation dominate sales
 Popular categories: Clothing, Food, Electronics
 
 🛠️ Tech Stack
-Python
-Pandas
-Matplotlib
-Seaborn
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
 Jupyter Notebook
 
 📌 Outcomes
