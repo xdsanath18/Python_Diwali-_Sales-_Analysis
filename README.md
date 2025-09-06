@@ -38,3 +38,5 @@ Jupyter Notebook
 Identified target customers and top-selling products
 Provided business recommendations for focused marketing
 Created visual insights for better decision-making
+
+⭐ If you found this project useful, don’t forget to star the repository!
